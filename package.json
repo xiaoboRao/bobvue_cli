@@ -1,6 +1,6 @@
 {
   "name": "bobvue_cli",
-  "version": "1.0.0",
+  "version": "1.0.01",
   "description": "a ",
   "main": "index.js",
   "bin": {
@@ -10,11 +10,11 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "bob",
-  "keywords": ["vue-cli","vue","vue-template","vue2"],
-  "homepage": "",
+  "keywords": ["vue-cli","vue","vue-template","vue3"],
+  "homepage": "https://github.com/xiaoboRao/bobvue_cli",
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/xiaoboRao/bobvue_cli"
   },
   "license": "ISC",
   "dependencies": {
