@@ -1,0 +1,26 @@
+{
+  "name": "bobvue_cli",
+  "version": "1.0.0",
+  "description": "a ",
+  "main": "index.js",
+  "bin": {
+    "bobvue_cli": "index.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bob",
+  "keywords": ["vue-cli","vue","vue-template","vue2"],
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^9.0.0",
+    "download-git-repo": "^3.0.2",
+    "ejs": "^3.1.6",
+    "open": "^8.4.0"
+  }
+}
